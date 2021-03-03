@@ -8,7 +8,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 /**
  * <p>
- * 这是写类描述，如果有换行则用<br>
+ * 修改注释：测试读取Excel表格是否成功<br>
  * </p>
  */
 public class Test {
